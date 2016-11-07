@@ -1,4 +1,6 @@
 This is my first git
 I change this file at 5 pm
 
-first change 
+first change
+second change
+
